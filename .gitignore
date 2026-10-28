@@ -1,0 +1,21 @@
+# dépendances et sorties de build
+node_modules/
+dist/
+*.tsbuildinfo
+
+# captures de travail (les images du README vivent dans docs/screens/)
+shots/
+
+# journaux locaux
+dev.log
+*.log
+
+# environnement et secrets
+.env
+.env.*
+*.local
+
+# outils d'agents / éditeurs
+.opencode/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,18 @@
+{
+  "normal": {
+    "meshes": 253,
+    "fps": 60.2,
+    "avgFrameMs": 16.62,
+    "p95FrameMs": 16.8,
+    "worstFrameMs": 16.9,
+    "frames": 241
+  },
+  "cpu6x": {
+    "meshes": 253,
+    "fps": 24.2,
+    "avgFrameMs": 41.41,
+    "p95FrameMs": 83.4,
+    "worstFrameMs": 216.8,
+    "frames": 97
+  }
+}

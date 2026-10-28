@@ -1,0 +1,290 @@
+{
+  "generatedAt": "2026-10-27T23:53:59.261Z",
+  "seed": 20261028,
+  "matchesPerRun": 10,
+  "totalMatches": 20,
+  "checks": {
+    "allMatchesCompleted": true,
+    "legalScorelines": true,
+    "careerProgressed": true,
+    "wetMoreErrors": true,
+    "wetShorterRallies": true,
+    "crowdThinsInRain": true,
+    "crowdReturnsWhenDry": true,
+    "noPageErrors": true
+  },
+  "scoreProblems": [],
+  "pages": {
+    "dry": [],
+    "wet": []
+  },
+  "dry": {
+    "matches": 10,
+    "points": 694,
+    "shots": 5887,
+    "errors": 510,
+    "winners": 184,
+    "aces": 126,
+    "errorRate": 0.087,
+    "errorsPerPoint": 0.735,
+    "avgRally": 8.5,
+    "avgAttendance": 15,
+    "minAttendance": 13,
+    "capacity": 22
+  },
+  "wet": {
+    "matches": 10,
+    "points": 736,
+    "shots": 5035,
+    "errors": 554,
+    "winners": 182,
+    "aces": 136,
+    "errorRate": 0.11,
+    "errorsPerPoint": 0.753,
+    "avgRally": 6.9,
+    "avgAttendance": 14.9,
+    "minAttendance": 13,
+    "capacity": 22
+  },
+  "crowd": {
+    "dry": {
+      "present": 15,
+      "capacity": 22,
+      "target": 0.6267992109940905,
+      "rain": 0,
+      "phase": "pointOver"
+    },
+    "rain": {
+      "present": 0,
+      "capacity": 22,
+      "target": 0.06,
+      "rain": 0.9999999999999998,
+      "phase": "covered"
+    },
+    "after": {
+      "present": 15,
+      "capacity": 22,
+      "target": 0.5698567044345013,
+      "rain": 1.3874166842401068e-34,
+      "phase": "markCheck"
+    }
+  },
+  "ladder": [
+    {
+      "id": "park",
+      "wins": 4,
+      "losses": 2
+    },
+    {
+      "id": "reyes",
+      "wins": 0,
+      "losses": 3
+    },
+    {
+      "id": "voss",
+      "wins": 2,
+      "losses": 3
+    },
+    {
+      "id": "hale",
+      "wins": 4,
+      "losses": 2
+    }
+  ],
+  "players": [
+    {
+      "id": "voss",
+      "name": "Mara Voss",
+      "matches": 5,
+      "wins": 2,
+      "losses": 3,
+      "setsWon": 7,
+      "setsLost": 5,
+      "pointsWon": 174,
+      "pointsLost": 182,
+      "aces": 1,
+      "doubleFaults": 0,
+      "winners": 17,
+      "errors": 159
+    },
+    {
+      "id": "park",
+      "name": "Jun Park",
+      "matches": 6,
+      "wins": 4,
+      "losses": 2,
+      "setsWon": 10,
+      "setsLost": 4,
+      "pointsWon": 240,
+      "pointsLost": 195,
+      "aces": 36,
+      "doubleFaults": 0,
+      "winners": 57,
+      "errors": 136
+    },
+    {
+      "id": "reyes",
+      "name": "Sofia Reyes",
+      "matches": 3,
+      "wins": 0,
+      "losses": 3,
+      "setsWon": 0,
+      "setsLost": 6,
+      "pointsWon": 70,
+      "pointsLost": 105,
+      "aces": 0,
+      "doubleFaults": 0,
+      "winners": 0,
+      "errors": 137
+    },
+    {
+      "id": "hale",
+      "name": "Tomás Hale",
+      "matches": 6,
+      "wins": 4,
+      "losses": 2,
+      "setsWon": 6,
+      "setsLost": 8,
+      "pointsWon": 210,
+      "pointsLost": 212,
+      "aces": 89,
+      "doubleFaults": 0,
+      "winners": 110,
+      "errors": 78
+    }
+  ],
+  "lastMatches": {
+    "dry": [
+      {
+        "index": 8,
+        "winnerId": "hale",
+        "loserId": "voss",
+        "winnerName": "Tomás Hale",
+        "loserName": "Mara Voss",
+        "score": "2 – 0",
+        "sets": [
+          {
+            "a": 4,
+            "b": 1,
+            "kind": "set"
+          },
+          {
+            "a": 4,
+            "b": 3,
+            "kind": "set"
+          }
+        ],
+        "points": 66,
+        "aces": 23,
+        "doubleFaults": 0,
+        "winners": 28,
+        "errors": 38,
+        "avgRally": 6.4,
+        "shots": 420,
+        "reasons": {
+          "ACE": 23,
+          "OUT": 38,
+          "WINNER": 5
+        }
+      },
+      {
+        "index": 9,
+        "winnerId": "park",
+        "loserId": "hale",
+        "winnerName": "Jun Park",
+        "loserName": "Tomás Hale",
+        "score": "0 – 2",
+        "sets": [
+          {
+            "a": 0,
+            "b": 4,
+            "kind": "set"
+          },
+          {
+            "a": 3,
+            "b": 4,
+            "kind": "set"
+          }
+        ],
+        "points": 63,
+        "aces": 12,
+        "doubleFaults": 0,
+        "winners": 21,
+        "errors": 42,
+        "avgRally": 7.8,
+        "shots": 493,
+        "reasons": {
+          "OUT": 42,
+          "WINNER": 9,
+          "ACE": 12
+        }
+      }
+    ],
+    "wet": [
+      {
+        "index": 8,
+        "winnerId": "voss",
+        "loserId": "hale",
+        "winnerName": "Mara Voss",
+        "loserName": "Tomás Hale",
+        "score": "2 – 0",
+        "sets": [
+          {
+            "a": 4,
+            "b": 1,
+            "kind": "set"
+          },
+          {
+            "a": 4,
+            "b": 1,
+            "kind": "set"
+          }
+        ],
+        "points": 50,
+        "aces": 1,
+        "doubleFaults": 0,
+        "winners": 10,
+        "errors": 40,
+        "avgRally": 6.8,
+        "shots": 339,
+        "reasons": {
+          "OUT": 40,
+          "WINNER": 9,
+          "ACE": 1
+        }
+      },
+      {
+        "index": 9,
+        "winnerId": "park",
+        "loserId": "voss",
+        "winnerName": "Jun Park",
+        "loserName": "Mara Voss",
+        "score": "0 – 2",
+        "sets": [
+          {
+            "a": 1,
+            "b": 4,
+            "kind": "set"
+          },
+          {
+            "a": 0,
+            "b": 4,
+            "kind": "set"
+          }
+        ],
+        "points": 49,
+        "aces": 6,
+        "doubleFaults": 0,
+        "winners": 11,
+        "errors": 38,
+        "avgRally": 8.1,
+        "shots": 396,
+        "reasons": {
+          "OUT": 38,
+          "WINNER": 5,
+          "ACE": 6
+        }
+      }
+    ]
+  }
+}
