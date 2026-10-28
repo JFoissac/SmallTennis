@@ -2,8 +2,10 @@
 
 # Love All
 
-**Un club de tennis en pixel art, posé sur une île flottante.**
-Simulation de tennis autonome, ladder « winner stays on », météo et surfaces — dans le navigateur.
+<p align="center">
+<strong>SmallTennis</strong> — un club de tennis en pixel art, posé sur une île flottante.<br>
+Simulation de tennis autonome, ladder « winner stays on », météo et surfaces, dans le navigateur.
+</p>
 
 [![Jouer en ligne](https://img.shields.io/badge/%E2%96%B6_JOUER-en_ligne-d6b257?style=for-the-badge)](https://jfoissac.github.io/SmallTennis/)
 [![Tests](https://img.shields.io/badge/tests-67_passing-2ea043)](#tests)
